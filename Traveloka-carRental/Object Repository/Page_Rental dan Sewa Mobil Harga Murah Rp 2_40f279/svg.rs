@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>cb7684fa-a741-4fe4-b522-77e28000d0cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ke Halaman Sebelumnya'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-14lw9ot.r-sdzlij.r-b4qz5r.r-1loqt21.r-edyy15.r-u8s1d.r-zchlnj.r-9rrtl8.r-1otgn73.r-1i6wzkk.r-lrvibr.r-1g40b8q > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>c0dfc861-3a9c-4561-9b12-a63dbda77132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>a625c885-5272-4b8e-9f14-c075806f1235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>2c2d66a7-626b-4639-bb2f-20ecb57cb392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>6cb75a9b-f220-40bf-a524-2e4c32353751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>4af47c3a-529a-4284-8d76-5dfb8b8ba294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>e1a1044b-fff1-42f6-ad6f-b0f828f6dcbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>IcSystemChevronRight</value>
+      <webElementGuid>8387d4d7-5ed0-47fd-bb24-d73ecad53f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-o52ifk r-1ifxtd0&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-sdzlij r-b4qz5r r-1loqt21 r-edyy15 r-u8s1d r-zchlnj r-9rrtl8 r-1otgn73 r-1i6wzkk r-lrvibr r-1g40b8q&quot;]/svg[1]</value>
+      <webElementGuid>d64306dc-303a-4847-819a-1ad2601702d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ke Halaman Sebelumnya'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d13ce41a-d5df-4cdb-8932-ed8b647c2056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Mobil'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>d082cac2-c07a-4ac2-94e6-017e863252a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toyota Agya'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7340dbfa-44a6-448e-9dd5-a9d94eec164b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

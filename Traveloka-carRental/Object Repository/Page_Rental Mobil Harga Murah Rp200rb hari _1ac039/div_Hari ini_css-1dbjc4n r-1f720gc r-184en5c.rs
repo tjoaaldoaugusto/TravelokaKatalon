@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hari ini_css-1dbjc4n r-1f720gc r-184en5c</name>
+   <tag></tag>
+   <elementGuidId>98f9c57a-8c2c-4b92-b9cb-38ad5f4bc9a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[6]/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[4]/div/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d60c87db-bb71-4b5f-9b87-8826f3ae7634</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1f720gc r-184en5c</value>
+      <webElementGuid>2199db88-d5e7-42bd-b132-ce0a6a7f8035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-8ny0jo&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-bztko3 r-nsbfu8 r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-obd0qt r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-b4qz5r r-1d2f490 r-1udh08x r-u8s1d&quot;]/div[@class=&quot;css-1dbjc4n r-edyy15&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-18u37iz r-16y2uox r-1wbh5a2 r-lltvgl r-buy8e9 r-mfh4gg r-2eszeu r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-cpa5s6&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6413gk r-14hr28s r-c0cves&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-kdyh1x r-1loqt21 r-1777fci r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1vjbqqu r-z2wwpe r-18u37iz r-1472mwg r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-1f720gc r-184en5c&quot;]</value>
+      <webElementGuid>2637c0a8-1706-426c-b215-3c41388f1e59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[6]/div/div[2]/div/div/div[4]/div/div/div[2]/div/div/div/div/div/div/div/div/div[3]/div[4]/div/div/div[2]/div[3]</value>
+      <webElementGuid>64563be4-2aaf-41b0-87f7-490662dff696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div/div/div[2]/div[3]</value>
+      <webElementGuid>2fffb6ff-77d6-4f67-892e-3391a611be74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

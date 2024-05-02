@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JakartaJakarta Special Capital Region, _b041b6</name>
+   <tag></tag>
+   <elementGuidId>8373afc2-cf84-4347-a7f6-18f9ec20609a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[6]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-1vjbqqu.r-1q52ik8.r-qklmqi.r-1loqt21.r-18u37iz.r-1wtj0ep.r-ymttw5.r-5njf8e.r-1otgn73.r-1i6wzkk.r-lrvibr.r-13qz1uu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>563e9ad4-858c-40a8-9470-38b0093704ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Jakarta</value>
+      <webElementGuid>2fabdcef-68bf-4bbc-8f9b-87a0d4d61c69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>126ebc29-ad1e-4b81-8228-0c4a67967e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-1vjbqqu r-1q52ik8 r-qklmqi r-1loqt21 r-18u37iz r-1wtj0ep r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr r-13qz1uu</value>
+      <webElementGuid>8232ea1b-00f0-46c2-9324-a647131f89ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>rental-search-form-location-item</value>
+      <webElementGuid>f6210192-8cc7-4f9f-a06b-7613a3f98e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JakartaJakarta Special Capital Region, IndonesiaWilayah</value>
+      <webElementGuid>16cd4f0c-71f1-4452-a7f0-95cfc7a0346c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-8ny0jo&quot;]/div[@class=&quot;css-1dbjc4n r-1jgb5lz r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-b4qz5r r-bztko3 r-nsbfu8 r-uwe93p&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-n0o8ka r-1ufr4wv&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-1wh2hl7 r-e65k4z r-b4qz5r r-1dqxon3 r-u8s1d r-1rt2jqs&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-eqz5dr r-16y2uox r-1wbh5a2 r-11yh6sk r-1rnoaur r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-1vjbqqu r-1q52ik8 r-qklmqi r-1loqt21 r-18u37iz r-1wtj0ep r-ymttw5 r-5njf8e r-1otgn73 r-1i6wzkk r-lrvibr r-13qz1uu&quot;]</value>
+      <webElementGuid>65d24077-c13b-4615-b4ca-925a4561f66b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[6]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>7209592c-bf12-4dfb-b865-43922dac0b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota atau Wilayah'])[1]/following::div[1]</value>
+      <webElementGuid>8459099b-cfa5-4c09-92c9-45b552600d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari kota atau wilayah'])[1]/following::div[5]</value>
+      <webElementGuid>8c7bf24c-6db9-4954-b3ef-f56b8dc8d07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>b17f2d19-8d28-49ca-97bd-8d3658c593c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JakartaJakarta Special Capital Region, IndonesiaWilayah' or . = 'JakartaJakarta Special Capital Region, IndonesiaWilayah')]</value>
+      <webElementGuid>80b46718-126f-41c6-9efb-f97030ec9e4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

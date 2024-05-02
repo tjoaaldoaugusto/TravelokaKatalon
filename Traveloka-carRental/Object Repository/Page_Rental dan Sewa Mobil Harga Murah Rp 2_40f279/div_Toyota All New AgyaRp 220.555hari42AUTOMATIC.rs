@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toyota All New AgyaRp 220.555hari42AUTOMATIC</name>
+   <tag></tag>
+   <elementGuidId>1886684b-1f00-4c71-9d89-9e580d1cb768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div/div[2]/div[3]/div/div[6]/div/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f91ad85f-e793-40a8-9e75-80775f0ae87a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-13awgt0</value>
+      <webElementGuid>2e1c8c04-3d45-41e2-a981-5e42a13d1154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toyota All New AgyaRp 220.555/hari42AUTOMATIC</value>
+      <webElementGuid>b21c8035-420d-4674-a3c7-7d3a52a1a062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-1ihkh82&quot;]/div[@class=&quot;css-1dbjc4n r-1kihuf0 r-169s5xo r-uwe93p r-136ojw6&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt&quot;]/div[@class=&quot;css-1dbjc4n r-o52ifk r-1ifxtd0&quot;]/div[@class=&quot;css-1dbjc4n r-150rngu r-18u37iz r-16y2uox r-1wbh5a2 r-11yh6sk r-buy8e9 r-i023vh r-19z077z r-1sncvnh&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-6koalj r-18u37iz r-1w6e6rj r-1777fci&quot;]/div[@class=&quot;css-1dbjc4n r-13hce6t r-1b7u577 r-knv0ih&quot;]/div[@class=&quot;css-1dbjc4n r-1loqt21 r-1otgn73 r-1i6wzkk r-lrvibr&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-kdyh1x r-1yos0t3 r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1h0z5md&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0&quot;]</value>
+      <webElementGuid>35c250fe-6d9d-4f53-9701-392f4834da65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div/div[2]/div[3]/div/div[6]/div/div/div/div/div[3]</value>
+      <webElementGuid>c477be62-95bc-4e70-bb7e-867638a85267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOMATIC'])[4]/following::div[8]</value>
+      <webElementGuid>83bf7d24-174d-418a-8818-413063cee2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/hari'])[5]/following::div[20]</value>
+      <webElementGuid>2d78d31e-22d0-4d0f-ab68-de822ec5d9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[6]/div/div/div/div/div[3]</value>
+      <webElementGuid>b98aa25d-3e8c-4d1e-bb87-8952d12d381b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toyota All New AgyaRp 220.555/hari42AUTOMATIC' or . = 'Toyota All New AgyaRp 220.555/hari42AUTOMATIC')]</value>
+      <webElementGuid>776a2af9-fb44-457c-b8cd-2e3c573834da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

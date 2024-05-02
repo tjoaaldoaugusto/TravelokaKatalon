@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rental Mobil</name>
+   <tag></tag>
+   <elementGuidId>8d70205a-78e1-495c-bf7b-d6dc88c360f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div/div/div/div[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1dbjc4n.r-11mg6pl.r-1h84pjw.r-rs99b7.r-1loqt21.r-eqz5dr.r-1pi2tsx.r-ymttw5.r-5njf8e.r-1otgn73.r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9ece511-dcca-47ca-8081-524777e4c5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>845a0839-195f-4ac3-9220-1490a995ca83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1dbjc4n r-11mg6pl r-1h84pjw r-rs99b7 r-1loqt21 r-eqz5dr r-1pi2tsx r-ymttw5 r-5njf8e r-1otgn73 r-lrvibr</value>
+      <webElementGuid>529a4a1e-9a4e-4978-b707-d433e8be8e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rental Mobil</value>
+      <webElementGuid>9d73078f-c585-4b0e-ae3b-332ebbe8e08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1dbjc4n r-aoullt r-6koalj r-1wtj0ep r-dg7iqi r-bnwqim r-13qz1uu r-tqpus0&quot;]/div[@class=&quot;css-1dbjc4n r-1ifxtd0 r-1jgb5lz r-1a83bov r-17yavnb&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim&quot;]/div[@class=&quot;css-1dbjc4n r-1wzrnnt r-6yljno r-bnwqim r-pezta&quot;]/div[@class=&quot;css-1dbjc4n r-kdyh1x r-xyw6el&quot;]/div[@class=&quot;css-1dbjc4n r-1wh2hl7 r-o8yidv r-5oul0u r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-6koalj r-18u37iz r-9aw3ui&quot;]/div[@class=&quot;css-1dbjc4n r-1pi2tsx r-bnwqim r-184en5c&quot;]/div[@class=&quot;css-1dbjc4n r-11mg6pl r-1h84pjw r-rs99b7 r-1loqt21 r-eqz5dr r-1pi2tsx r-ymttw5 r-5njf8e r-1otgn73 r-lrvibr&quot;]</value>
+      <webElementGuid>8a802945-d937-416f-9cfa-513abc79aea5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[4]/div[2]/div/div[2]/div/div/div/div/div[6]/div</value>
+      <webElementGuid>6d1c712d-c7bc-43ac-b84e-9da009e7c72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Antar Jemput Bandara'])[2]/following::div[2]</value>
+      <webElementGuid>0078fb0f-9296-4b61-8c9f-75ec641db2fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiket Bus &amp; Travel'])[2]/following::div[7]</value>
+      <webElementGuid>06c1ccf5-d4e7-44d7-a461-c2d698fe6ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atraksi dan Aktivitas'])[2]/preceding::div[5]</value>
+      <webElementGuid>42f4352c-0e15-4455-b296-f7dc603c68ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[6]/div</value>
+      <webElementGuid>d03e793e-a7fb-4813-8287-9d4ed7b0b0e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rental Mobil' or . = 'Rental Mobil')]</value>
+      <webElementGuid>4e1bcc70-b28d-44a0-9356-6d3f34872788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
